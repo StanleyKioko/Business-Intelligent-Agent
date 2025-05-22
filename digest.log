@@ -1,0 +1,39 @@
+2025-05-22 20:59:08,092 - INFO - Loaded fallback simulated data
+2025-05-22 20:59:14,966 - INFO - Scheduler started with EAT timezone
+2025-05-22 20:59:14,966 - INFO - Scheduler started with EAT timezone
+2025-05-22 20:59:14,974 - INFO - Scheduler started with EAT timezone
+2025-05-22 20:59:22,206 - INFO - Scheduler started with EAT timezone
+2025-05-22 20:59:22,247 - INFO - Loaded fallback simulated data
+2025-05-22 20:59:22,388 - INFO - Data stored in SQLite successfully
+2025-05-22 20:59:23,444 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-05-22 20:59:23,447 - ERROR - Error generating digest: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-05-22 20:59:23,464 - ERROR - Cannot send email: Error generating digest: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-05-22 20:59:57,623 - INFO - Scheduler started with EAT timezone
+2025-05-22 20:59:57,642 - INFO - Loaded fallback simulated data
+2025-05-22 21:00:01,345 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-05-22 21:00:01,345 - ERROR - Error: Failed to generate response with Groq: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-05-22 21:00:34,230 - INFO - Scheduler started with EAT timezone
+2025-05-22 21:00:40,468 - INFO - Data uploaded successfully
+2025-05-22 21:01:02,274 - INFO - Scheduler started with EAT timezone
+2025-05-22 21:01:11,500 - INFO - Data uploaded successfully
+2025-05-22 21:01:23,019 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-05-22 21:01:23,019 - ERROR - Error: Failed to generate response with Groq: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-05-22 21:02:31,772 - INFO - Scheduler started with EAT timezone
+2025-05-22 21:02:41,448 - INFO - Data uploaded successfully
+2025-05-22 21:02:54,891 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-22 21:03:37,752 - INFO - Scheduler started with EAT timezone
+2025-05-22 21:03:45,759 - INFO - Data uploaded successfully
+2025-05-22 21:03:59,815 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-22 21:04:16,679 - INFO - Scheduler started with EAT timezone
+2025-05-22 21:04:24,279 - INFO - Data uploaded successfully
+2025-05-22 21:04:39,364 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-22 21:05:30,021 - INFO - Scheduler started with EAT timezone
+2025-05-22 21:05:37,858 - INFO - Data uploaded successfully
+2025-05-22 21:05:52,458 - INFO - Data stored in SQLite successfully
+2025-05-22 21:06:01,876 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-22 21:06:01,882 - INFO - Weekly digest generated successfully
+2025-05-22 21:06:03,619 - ERROR - Error sending email report: (334, b'UGFzc3dvcmQ6')
+2025-05-22 21:06:54,218 - INFO - Scheduler started with EAT timezone
+2025-05-22 21:07:02,119 - INFO - Data uploaded successfully
+2025-05-22 21:14:01,953 - INFO - Scheduler started with EAT timezone
+2025-05-22 21:14:01,978 - INFO - Loaded fallback simulated data
