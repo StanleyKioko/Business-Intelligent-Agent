@@ -1,0 +1,7 @@
+pandas
+sqlite3
+python-dotenv
+groq
+streamlit
+schedule
+smtplib
